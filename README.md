@@ -4,7 +4,7 @@ We developed a decentralized drug traceability system using React for the user i
 
 Demo link:
 
-  TEAM MEMBERS:
+TEAM MEMBERS:
 1)AJITH M
 2)AKSHAY G L
 3)ANITHA S 
