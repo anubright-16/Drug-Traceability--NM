@@ -2,7 +2,7 @@
 
 We developed a decentralized drug traceability system using React for the user interface and Solidity for blockchain smart contracts, ensuring transparent and secure tracking of pharmaceutical products.
 
-Demo link:
+Demo link: https://drive.google.com/file/d/1Aky9Q2tOKBuO5SnzisvO8r1yMj4fnpes/view?usp=drivesdk
 
 TEAM MEMBERS:
 
